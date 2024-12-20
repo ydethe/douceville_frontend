@@ -367,7 +367,7 @@ wheels = [
 
 [[package]]
 name = "douceville-frontend"
-version = "0.0.0"
+version = "0.0.0.post1.dev0+b8e0ef1"
 source = { editable = "." }
 dependencies = [
     { name = "reflex" },
