@@ -12,7 +12,10 @@ authors = [
     { name = "Yann de Thé", email = "yann@gmail.com" },
 ]
 dependencies = [
+    "hypercorn>=0.17.3",
+    "pydantic-settings>=2.7.0",
     "reflex>=0.6.7",
+    "supabase>=2.10.0",
 ]
 
 [project.urls]
